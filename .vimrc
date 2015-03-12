@@ -21,3 +21,9 @@ set mouse=a
 
 colorscheme elflord
 " colorscheme koehler looks pretty good
+
+" Shortcuts for quick buffer switching
+noremap <silent> [b :bprevious<CR>
+noremap <silent> ]b :bnext<CR>
+noremap <silent> [B :bfirst<CR>
+noremap <silent> ]B :blast<CR>
