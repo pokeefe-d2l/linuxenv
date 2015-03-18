@@ -1,5 +1,6 @@
 set number
 syntax enable
+set paste
 
 " Searching settings
 set hlsearch
