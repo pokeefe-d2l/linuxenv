@@ -9,6 +9,7 @@ set hlsearch
 set expandtab
 set tabstop=2
 set shiftwidth=2
+set autoindent
 
 " Keep a buffer above and below the curser
 set so=7
